@@ -98,11 +98,10 @@ const About = () => {
         <div className="flex-1 flex flex-col justify-center">
           <h2 className="h2">
             About <span className="text-accent">US</span>
-            
+
           </h2>
           <p className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0">
-          Gray Hut Consulting Inc. is a digital solutions company specializing in web development, innovative design, and strategic digital marketing. We help businesses of all sizes establish a powerful online presence through custom websites, user-centric designs, and data-driven marketing campaigns. Our team of experts combines creativity with cutting-edge technology to deliver tailored solutions that drive growth, engagement, and measurable results. Whether you're a startup looking to launch your brand or an established company aiming to scale, Gray Hut Consulting is your trusted partner for turning digital visions into reality. Based in Canada but serving clients globally, we’re committed to excellence, transparency, and client success in every project we undertake.
-          </p>
+            Gray Hut Consulting Inc. is a digital solutions company specializing in web development, innovative design, and strategic digital marketing. We help businesses of all sizes establish a powerful online presence through custom websites, user-centric designs, and data-driven marketing campaigns. Our team of experts combines creativity with cutting-edge technology to deliver tailored solutions that drive growth, engagement, and measurable results. Whether you are a startup looking to launch your brand or an established company aiming to scale, Gray Hut Consulting is your trusted partner for turning digital visions into reality. Based in Canada but serving clients globally, we are committed to excellence, transparency, and client success in every project we undertake.  </p>
 
           {/* counters */}
           <div className="hidden md:flex md:max-w-xl xl:max-w-none mx-auto xl:mx-0 mb-8">
